@@ -1,0 +1,2 @@
+-- Seed data for local development
+-- Note: In Supabase local dev, you can create auth users via the Dashboard at http://127.0.0.1:54323
